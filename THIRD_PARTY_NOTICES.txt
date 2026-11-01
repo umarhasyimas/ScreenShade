@@ -1,0 +1,19 @@
+POT-O SCREENSHADE - THIRD-PARTY NOTICES
+
+Pot-O ScreenShade is (c) 2026 Muhammad Umar Hasyim Ashari and is licensed under the Pot-O ScreenShade
+Freeware License (LICENSE.txt). It includes or links the following third-party software, each of which
+remains under its own license:
+
+1. Qt for Python (PySide6) and the Qt libraries - GNU Lesser General Public License v3 (LGPLv3)
+   https://www.qt.io/qt-for-python    https://www.gnu.org/licenses/lgpl-3.0.html
+   Qt is dynamically linked: the Qt/PySide6 shared libraries (.dll / .pyd) are shipped as separate files
+   in this folder, so you can replace them with your own build of the same libraries.
+   Qt is a registered trademark of The Qt Company Ltd. The Qt source code is available from the links above.
+
+2. Python - Python Software Foundation License        https://docs.python.org/3/license.html
+3. Pillow - MIT-CMU (HPND) License                    https://python-pillow.org
+4. python-mss (mss) - MIT License                     https://github.com/BoboTiG/python-mss
+5. pywin32 - Python Software Foundation License       https://github.com/mhammond/pywin32
+
+The full license texts of these components are available at the addresses above and in the packages they
+were obtained from. Nothing in the Pot-O ScreenShade license restricts the rights these licenses give you.

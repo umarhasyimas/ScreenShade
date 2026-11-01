@@ -1,0 +1,69 @@
+POT-O SCREENSHADE FREEWARE LICENSE AGREEMENT
+Version 1.2.3
+
+Copyright (c) 2026 Muhammad Umar Hasyim Ashari. All rights reserved.
+
+"Software" means the Pot-O ScreenShade executable program, together with the files distributed with it
+(the "Package"). Please read this agreement before using the Software. By installing, copying or using
+the Software you agree to these terms. If you do not agree, do not use the Software.
+
+1. GRANT OF LICENSE
+   The author grants you a free, non-exclusive, non-transferable, worldwide, revocable license to install
+   and use the Software, in its unmodified binary form, on any number of personal, educational, business
+   or other computers that you own or control, at no charge.
+
+2. FREE REDISTRIBUTION
+   You may redistribute the complete, unmodified Package free of charge (for example by sharing the
+   download or putting it on a website, mirror or software archive), provided that you:
+   (a) keep every file of the Package intact, including this license and the third-party notices;
+   (b) do not charge for the Software or for access to it (a reasonable fee for the medium or
+       bandwidth is allowed, but the Software itself must remain free);
+   (c) do not present the Software as your own work or remove or change the author's name,
+       copyright notices or product name; and
+   (d) do not bundle it with advertising, adware, bundled offers, malware or other unwanted software.
+
+3. RESTRICTIONS
+   Except where applicable law gives you a right that cannot be waived by contract, you may not:
+   (a) sell, rent, lease, sublicense or otherwise commercialise the Software;
+   (b) modify, translate, or create derivative works of the Software;
+   (c) reverse engineer, decompile or disassemble the Software, or attempt to extract its source code;
+   (d) remove, alter or hide any copyright, trademark or attribution notice;
+   (e) use the Software to break the law or to violate the rights of others.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. The author retains all right, title and interest in the Software,
+   including its name, design, icons and source code. No source code is licensed under this agreement.
+   No rights are granted except those expressly stated.
+
+5. THIRD-PARTY COMPONENTS
+   The Software includes open-source components (see THIRD_PARTY_NOTICES.txt) that are licensed to you
+   under their own terms. Nothing in this agreement restricts the rights those licenses give you in
+   those components.
+
+6. PRIVACY
+   The Software works entirely on your computer. It does not collect, transmit or sell personal data and
+   does not connect to the internet. Screenshots and settings are stored only where you choose or in the
+   program folder.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT.
+   The Software only draws a visual color tint over your screen; it does not change your display hardware
+   and makes no medical claim, including any claim about eye strain, eye health or sleep.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,
+   INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA OR PROFITS) ARISING OUT OF THE USE
+   OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. THE SOFTWARE IS NOT INTENDED FOR USE WHERE ITS FAILURE COULD CAUSE INJURY OR DEATH.
+
+9. TERMINATION
+   This license applies until terminated. It ends automatically if you breach any term. On termination
+   you must stop using the Software and delete all copies.
+
+10. GENERAL
+    If any provision is held unenforceable, the remaining provisions stay in effect. The author may
+    publish new versions of the Software under a different license; versions already released to you
+    remain under the license they were distributed with.
+
+Contact / credits: Muhammad Umar Hasyim Ashari (umarhasyimas@gmail.com)
